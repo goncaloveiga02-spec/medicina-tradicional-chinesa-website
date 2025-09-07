@@ -423,8 +423,8 @@ export function ResponsiveServiceLayout({
                 <OptimizedImage
                   src={aboutSection.image}
                   alt={aboutSection.title}
-                  width={600}
-                  height={500}
+                  width={450}
+                  height={350}
                   className="rounded-2xl shadow-xl"
                 />
               </div>

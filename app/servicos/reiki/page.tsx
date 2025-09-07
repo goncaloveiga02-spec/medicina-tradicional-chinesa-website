@@ -137,7 +137,7 @@ export default function ReikiPage() {
         title: "Sobre o Tratamento",
         content:
           "Uma abordagem terapêutica holística que canaliza a energia vital universal (Ki) para restaurar o equilíbrio natural do seu corpo e mente. Através de técnicas suaves e não invasivas, o Reiki promove relaxamento profundo, reduz o stress e ansiedade, alivia dores físicas e emocionais, e fortalece o sistema imunitário.\n\nCada sessão é personalizada às suas necessidades específicas, proporcionando uma experiência de cura profunda que trabalha tanto a nível físico como energético, ajudando-o a reconectar-se consigo mesmo e encontrar paz interior duradoura.",
-        image: "/images/reiki.webp",
+        image: "/images/reiki2.webp",
       }}
       processSteps={[
         {

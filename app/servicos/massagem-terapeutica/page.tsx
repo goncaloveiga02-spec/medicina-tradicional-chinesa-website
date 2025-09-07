@@ -107,7 +107,7 @@ export default function MassagemTerapeuticaPage() {
         title: "Tipos de Massagem",
         content:
           "Oferecemos dois tipos principais de massagem, cada uma adaptada às suas necessidades específicas.\n\nA Massagem Terapêutica foca no alívio de tensões específicas e tratamento de áreas problemáticas, enquanto a Massagem de Relaxamento promove um estado profundo de tranquilidade e bem-estar geral.",
-        image: "/images/massagem01.webp",
+        image: "/images/massage2.webp",
       }}
       processSteps={[
         {

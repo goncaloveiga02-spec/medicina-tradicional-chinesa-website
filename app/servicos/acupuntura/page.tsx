@@ -113,7 +113,7 @@ export default function AcupunturaPage() {
         title: "Porquê Escolher Marlene Martins?",
         content:
           "🏮 <strong>MESTRE EM MEDICINA TRADICIONAL CHINESA</strong> com Cédula Profissional C-0051688, dedicada à arte milenar da acupuntura e ao bem-estar integral dos seus pacientes.\n\n🌸 Especializada na <strong>HARMONIZAÇÃO ENERGÉTICA</strong> através de técnicas ancestrais, tratando dores crónicas, desequilíbrios emocionais e promovendo a vitalidade natural.\n\n🎯 <strong>CUIDADO PERSONALIZADO</strong>: Cada sessão é uma jornada única de cura, respeitando a sua constituição energética e necessidades individuais.\n\n🏯 <strong>SANTUÁRIO DE CURA</strong>: Espaço sagrado em Samora Correia, onde a tradição chinesa encontra o conforto moderno para a sua transformação interior.",
-        image: "/images/acupuntura01.webp",
+        image: "/images/acupuntura2.webp",
       }}
       processSteps={[
         {

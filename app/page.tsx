@@ -106,7 +106,7 @@ export default function HomePage() {
               <div className="order-1 lg:order-2">
                 <div className="relative">
                   <img 
-                    src="/images/marlene-martins.webp" 
+                    src="/images/marlene3.webp" 
                     alt="Marlene Martins - Acupunturista Certificada"
                     className="w-full h-auto rounded-2xl shadow-2xl"
                   />

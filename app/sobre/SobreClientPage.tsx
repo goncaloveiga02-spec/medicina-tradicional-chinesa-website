@@ -227,7 +227,7 @@ export default function SobreClientPage() {
           title="Marlene Martins"
           subtitle="Especialista em Medicina Tradicional Chinesa com mais de 15 anos de experiência, dedicada a promover o seu bem-estar através de terapias naturais e holísticas que harmonizam corpo, mente e espírito."
           highlightWords={["Marlene"]}
-          backgroundImage="/images/cherry-blossoms-hero.png"
+          backgroundImage="/images/zen-hero-bg.webp"
           backgroundOverlay="light"
           breadcrumbs={[{ label: "Home", href: "/" }, { label: "Sobre" }]}
           primaryCTA={{
@@ -302,7 +302,7 @@ export default function SobreClientPage() {
               <div className="relative">
                 <div className="relative z-10">
                   <OptimizedImage
-                    src="/images/marlene-martins.webp"
+                    src="/images/marlene3.webp"
                     alt="Marlene Martins - Acupunturista Certificada"
                     width={600}
                     height={700}
